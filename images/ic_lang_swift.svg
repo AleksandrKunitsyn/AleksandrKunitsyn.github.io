@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="29.0227mm" height="29.0017mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2902 2900"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+    .fil1 {fill:url(#id1);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1744" y1="-204" x2="1161" y2="3104">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F9B13D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E63830"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1478" y1="-176" x2="998" y2="2549">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E5A235"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D23629"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2171182967312">
+   <path class="fil0" d="M645 0l1615 0c355,0 642,288 642,642l0 1615c0,355 -288,642 -642,642l-1615 0c-355,0 -642,-288 -642,-642l0 -1615c0,-355 288,-642 642,-642z"/>
+   <path class="fil1" d="M2450 2373c0,0 -113,-188 -300,-188 -181,0 -288,188 -654,188 -810,0 -1195,-674 -1198,-679 0,0 0,0 0,0l-298 -321 0 -731c0,-355 288,-642 642,-642l573 0 424 430c0,0 0,0 0,0 957,651 648,1367 648,1367 0,0 272,307 163,576z"/>
+   <path class="fil2" d="M1642 430c957,651 648,1367 648,1367 0,0 272,307 163,576 0,0 -113,-188 -300,-188 -181,0 -288,188 -654,188 -813,0 -1198,-679 -1198,-679 732,483 1233,141 1233,141 -330,-192 -1032,-1107 -1032,-1107 612,520 876,657 876,657 -158,-130 -601,-766 -601,-766 354,358 1057,857 1057,857 201,-551 -191,-1045 -191,-1045z"/>
+  </g>
+ </g>
+</svg>
