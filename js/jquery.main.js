@@ -167,7 +167,7 @@ $(function(){
   	 /*r = [29, 24, 62, 6, 5], g= [208, 255, 228, 176, 146], b= [212, 255, 232, 180, 149];
   	 r = [29], g= [208], b= [212];*/
   	 r = 29, g= 208, b= 212;
-    return 'rgba(' + r + ',' + g + ',' + b + ', 0.8)';
+    return 'rgba(' + r + ',' + g + ',' + b + ', 0.2)';
   }
   
   function mixComponents(comp1, weight1, comp2, weight2) {
