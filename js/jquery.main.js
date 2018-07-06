@@ -12,6 +12,24 @@ function initMobileNav() {
 }
 
 
+$(document).ready(function(){
+ 
+$(window).scroll(function(){
+if ($(this).scrollTop() > 300) {
+$('.scrollup').fadeIn();
+} else {
+$('.scrollup').fadeOut();
+}
+});
+ 
+$('.scrollup').click(function(){
+$("html, body").animate({ scrollTop: 0 }, 600);
+return false;
+});
+ 
+});
+
+
 
 /*
  * Simple Mobile Navigation
@@ -393,3 +411,5 @@ $(document).ready(function() { // вся мaгия пoслe зaгрузки ст
         return false; // вырубaeм стaндaртную oтпрaвку фoрмы
     });
 });
+
+

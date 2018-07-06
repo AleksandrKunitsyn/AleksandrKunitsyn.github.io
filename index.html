@@ -5,13 +5,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>PuerDev</title>
 	<link media="all" rel="stylesheet" href="css/main.css">
+	<link rel="stylesheet" href="css/animate.css">
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" defer></script>
 	<script type="text/javascript">
 		window.jQuery || document.write('<script src="js/jquery-3.2.1.min.js"><\/script>')
 	</script>
 	<script src="js/jquery.main.js" defer></script>
+	<script src="js/wow.min.js"></script>
 </head>
 <body>
+	<script>
+		new WOW().init();
+	</script>
 	<div id="wrapper">
 		<header id="header">
 			<div class="container">
@@ -47,9 +52,9 @@
 				<div class="container">
 					<div class="headline">
 						<div class="os-phrases" id="os-phrases">
-						<h2>Mobile App Development</h2>
-					</div>
-						<p>We create a unique product<br> for users from all over the world<br> &amp; we are very good at it</p>
+							<h2>Mobile App Development</h2>
+						</div>
+						<p class="wow fadeInDown" data-wow-delay="5s">We create a unique product<br> for users from all over the world<br> &amp; we are very good at it</p>
 					</div>
 				</div>
 				<div class="wave"><img src="images/header_points.svg" alt=""></div>
@@ -57,38 +62,38 @@
 			<section class="puerDev-section">
 				<div class="container">
 					<div class="headline">
-						<h2>PUERDEV IS MOBILE DEVELOPMENT PRODUCT COMPANY IN EASTERN EUROPE</h2>
-						<p>We provide a full-cycle development process, full-stack UI/UX design, testing and support for Startups, Agencies and Entrepreneurs from the over of the world.</p>
+						<h2 class="wow fadeInLeft">PUERDEV IS MOBILE DEVELOPMENT PRODUCT COMPANY IN EASTERN EUROPE</h2>
+						<p class="wow fadeInRight" data-wow-delay="0.5s">We provide a full-cycle development process, full-stack UI/UX design, testing and support for Startups, Agencies and Entrepreneurs from the over of the world.</p>
 					</div>
 				</div>				
 			</section>
 			<section class="stages-section">
 				<div class="container">
-					<h2>Stages to Ensure That Your Idea Takes Root</h2>
+					<h2 class="wow fadeInDown">Stages to Ensure That Your Idea Takes Root</h2>
 					<div class="col-holder">
 						<div class="col">
-							<img src="images/ic_stages_consultant.svg" alt="consultant">
-							<p>Consultant</p>
+							<img class="wow flipInX" data-wow-delay="0.1s"  src="images/ic_stages_consultant.svg" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="0.1s">Consultant</p>
 						</div>
 						<div class="col">
-							<img src="images/ic_stages_analysis.svg" alt="consultant">
-							<p>Analysis</p>
+							<img class="wow flipInX" data-wow-delay="0.3s" src="images/ic_stages_analysis.svg" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="0.3s">Analysis</p>
 						</div>
 						<div class="col">
-							<img src="images/ic_stages_design.svg" alt="consultant">
-							<p>Design</p>
+							<img class="wow flipInX" data-wow-delay="0.5s" src="images/ic_stages_design.svg" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="0.5s">Design</p>
 						</div>
 						<div class="col">
-							<img src="images/2.png" alt="consultant">
-							<p>Development</p>
+							<img class="wow flipInX" data-wow-delay="0.7s" src="images/2.png" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="0.7s">Development</p>
 						</div>
 						<div class="col">
-							<img src="images/ic_stages_quality_assurance.svg" alt="consultant">
-							<p>Quality Assurance</p>
+							<img class="wow flipInX" data-wow-delay="0.9s" src="images/ic_stages_quality_assurance.svg" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="0.9s">Quality Assurance</p>
 						</div>
 						<div class="col">
-							<img src="images/1.png" alt="consultant">
-							<p>Support</p>
+							<img class="wow flipInX" data-wow-delay="1.1s" src="images/1.png" alt="consultant">
+							<p class="wow fadeInUp" data-wow-delay="1.1s">Support</p>
 						</div>
 					</div>
 				</div>
@@ -96,17 +101,17 @@
 			<section class="apps-section">
 				<div class="container">
 					<div class="headline">
-						<h2>MOBILE APPS ARE NOW PART OF EVERY PERSON, EVERY BUSINESS, IRRESPECTIVE<br> OF THEIR SIZE AND NUMBER OF CUSTOMERS.</h2>
+						<h2 class="wow fadeInRight">MOBILE APPS ARE NOW PART OF EVERY PERSON, EVERY BUSINESS, IRRESPECTIVE<br> OF THEIR SIZE AND NUMBER OF CUSTOMERS.</h2>
 						<div class="col-holder">
 							<div class="col">
-								<p>It is especially the case if you run a small business and would like to reach audience more via the mobile channel.</p>
-								<div class="img-holder img-show">
+								<p class="wow fadeInLeft">It is especially the case if you run a small business and would like to reach audience more via the mobile channel.</p>
+								<div class="img-holder img-show wow flipInY">
 									<img src="images/mobile_apps_hand_with_phone.png" alt="handPhone">
 								</div>
-								<a href="#form" class="btn">Make a first step to Mobile App </a>
+								<a href="#form" class="btn wow flipInX" data-wow-delay="0.5s">Make a first step to Mobile App </a>
 							</div>
 							<div class="col">
-								<div class="img-holder img-hide">
+								<div class="img-holder img-hide wow flipInY">
 									<img src="images/mobile_apps_hand_with_phone.png" alt="handPhone">
 								</div>
 							</div>
@@ -117,77 +122,68 @@
 			<section class="benefits-section">
 				<div class="container">
 					<div class="headline">
-						<h2>Benefits</h2>
-						<p>Mobility is a mainstream and it’s a business strategy that can’t be overlooked any longer</p>
+						<h2 class="wow fadeInDown">Benefits</h2>
+						<p class="wow fadeInDown" data-wow-delay="0.2s">Mobility is a mainstream and it’s a business strategy that can’t be overlooked any longer</p>
 					</div>
-					<div class="benefits-img">
+					<!-- <div class="benefits-img">
 						<img class="show-img" src="images/ben1.png" alt="img">
 						<img class="hide-img" src="images/ben2.png" alt="img">
-					</div>
-					<!-- <div class="col-holder col-holder-show">
-						<div class="col">
-							<ul class="left-col">
-								<li class="left-l1">Leads to a more tightly connected work community</li>
-								<li class="left-l2">Enhances employee engagement</li>
-								<li class="left-l3">Transforms your business processes</li>
-								<li class="left-l4">Keeps you connected</li>
-							</ul>
+					</div> -->
+					<div class="col-holder col-holder-show">
+						<ul class="left-col">
+							<li class="left-l1 wow fadeIn" data-wow-delay="0.4s">Leads to a more tightly connected work community</li>
+							<li class="left-l2 wow fadeIn" data-wow-delay="0.5s">Enhances employee engagement</li>
+							<li class="left-l3 wow fadeIn" data-wow-delay="0.6s">Transforms your business processes</li>
+							<li class="left-l4 wow fadeIn" data-wow-delay="0.7s">Keeps you connected</li>
+						</ul>
+						<div class="circle-img1 wow fadeIn">
+							<img class="circle-img" src="images/benefits_round.png" alt="benefits">
 						</div>
-						<div class="col">
-							<img src="images/benefits_round.png" alt="benefits">
-							
-						</div>
-						<div class="col">
-							<ul class="right-col">
-								<li class="right-l1">Helps you make the sale & be more responsive</li>
-								<li class="right-l2">Ensures customers can find you easily</li>
-								<li class="right-l3">Promotes you be more productive</li>
-								<li class="right-l4">Increases awareness of your business</li>
-							</ul>
-						</div>
+						<ul class="right-col">
+							<li class="right-l1 wow fadeIn" data-wow-delay="0.5s">Helps you make the sale & be more responsive</li>
+							<li class="right-l2 wow fadeIn" data-wow-delay="0.6s">Ensures customers can find you easily</li>
+							<li class="right-l3 wow fadeIn" data-wow-delay="0.7s">Promotes you be more productive</li>
+							<li class="right-l4 wow fadeIn" data-wow-delay="0.8s">Increases awareness of your business</li>
+						</ul>
 					</div>
 					<div class="col-holder col-holder-hide">
-						<div class="col">
-							<ul class="left-col">
-								<li class="left-l1">Leads to a more tightly connected work community</li>
-								<li class="left-l2">Helps you make the sale  be more responsive</li>
-								<li class="left-l3"> Enhances employee engagement</li>
-								<li class="left-l4">Ensures customers can find you easily  
-								</li>
-							</ul>
-						</div>
-						<div class="col">
+						<ul class="left-col">
+							<li class="left-l1">Leads to a more tightly connected work community</li>
+							<li class="left-l2">Helps you make the sale  be more responsive</li>
+							<li class="left-l3"> Enhances employee engagement</li>
+							<li class="left-l4">Ensures customers can find you easily  
+							</li>
+						</ul>
+						<div class="circle-img2">
 							<img src="images/benefits_round_mob.png" alt="benefits">
 						</div>
-						<div class="col">
-							<ul class="right-col">
-								<li class="right-l1">Transforms your business processes</li>
-								<li class="right-l2">Promotes you be more productive</li>
-								<li class="right-l3">Keeps you connected</li>
-								<li class="right-l4">Increases awareness of your business</li>
-							</ul>
-						</div>
-					</div> -->
-					<h2 class="capt-bot">To be effective is to be Mobility!</h2>
+						<ul class="right-col">
+							<li class="right-l1">Transforms your business processes</li>
+							<li class="right-l2">Promotes you be more productive</li>
+							<li class="right-l3">Keeps you connected</li>
+							<li class="right-l4">Increases awareness of your business</li>
+						</ul>
+					</div>
+					<h2 class="capt-bot wow fadeInUp">To be effective is to be Mobility!</h2>
 				</div>
 			</section>
 			<div class="paralaks">
-				<h1>Explore our projects</h1>
+				<h1 class="wow flipInX">Explore our projects</h1>
 				<section class="network-section">
 					<div class="parallax-window"><span></span></div>
 					<div class="container">
 						<div class="col-holder">
 							<div class="col">
-								<h1>Social network</h1>
-								<ul>
+								<h1 class="wow fadeInLeft">Social network</h1>
+								<ul class="wow fadeInLeft" data-wow-delay="0.2s">
 									<li>Client: <span>Objective-C, Java</span></li>
 									<li>Backend: <span>Python, Flask</span></li>
 									<li>DB: <span>MySQL, Redis, Ubuntu, Nginx</span></li>
 								</ul>
 							</div>
 							<div class="col">
-								<p>Detailed visitor's statistics your profile of media and social networking service can be especially valuable for business purposes and not just only.</p>
-								<p>Common resources is  complex as well for non-technical people, so we decided to make it easy and created handy way to view and analyze statistical data in mobile. The app reflects up who, when, how many times the page was invited in details.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.1s">Detailed visitor's statistics your profile of media and social networking service can be especially valuable for business purposes and not just only.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.3s">Common resources is  complex as well for non-technical people, so we decided to make it easy and created handy way to view and analyze statistical data in mobile. The app reflects up who, when, how many times the page was invited in details.</p>
 							</div>
 						</div>
 					</div>
@@ -197,16 +193,16 @@
 					<div class="container">
 						<div class="col-holder">
 							<div class="col">
-								<h1>Social media</h1>
-								<ul>
+								<h1 class="wow fadeInLeft">Social media</h1>
+								<ul class="wow fadeInLeft" data-wow-delay="0.2s">
 									<li>Client: <span>Objective-C, Java</span></li>
 									<li>Backend: <span>Python, Django</span></li>
 									<li>DB: <span>PostgreSQL</span></li>
 								</ul>
 							</div>
 							<div class="col">
-								<p>Rhetoric is an art. Dark rhetoric is the art about of winning an argument, being right in dispute and not only. We assembled a collection of darkside of persuasion, manipulation and argue in one place.Join our community in one click and Enjoy the power and magic of word.</p>
-								<p>Benefits: big collocation resource for learning, practice, sharing your thoughts to speak your mind confident.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.1s">Rhetoric is an art. Dark rhetoric is the art about of winning an argument, being right in dispute and not only. We assembled a collection of darkside of persuasion, manipulation and argue in one place.Join our community in one click and Enjoy the power and magic of word.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.3s">Benefits: big collocation resource for learning, practice, sharing your thoughts to speak your mind confident.</p>
 							</div>
 						</div>
 					</div>
@@ -216,15 +212,15 @@
 					<div class="container">
 						<div class="col-holder">
 							<div class="col">
-								<h1>Healthcare</h1>
-								<ul>
+								<h1 class="wow fadeInLeft">Healthcare</h1>
+								<ul class="wow fadeInLeft" data-wow-delay="0.2s">
 									<li>Client: <span>Objective-C, Java</span></li>
 								</ul>
 							</div>
 							<div class="col">
-								<p>The Eye Workout app is based on the unique method and series of eye exercises for the whole family.</p>
-								<p>They get strengthen eye muscles, improve focusing and movements, stimulate the vision of human brain easy and fun.</p>
-								<p>Benefits: training planning template, description and audio explanation, video demonstration with funny looking character, reminders, achievement statistics.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.1s">The Eye Workout app is based on the unique method and series of eye exercises for the whole family.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.3s">They get strengthen eye muscles, improve focusing and movements, stimulate the vision of human brain easy and fun.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.5s">Benefits: training planning template, description and audio explanation, video demonstration with funny looking character, reminders, achievement statistics.</p>
 							</div>
 						</div>
 					</div>
@@ -234,17 +230,17 @@
 					<div class="container">
 						<div class="col-holder">
 							<div class="col">
-								<h1>Entertainment</h1>
-								<ul>
+								<h1 class="wow fadeInLeft">Entertainment</h1>
+								<ul class="wow fadeInLeft" data-wow-delay="0.2s">
 									<li>Client: <span>Objective-C</span></li>
 									<li>Backend: <span>Nginx, Ubuntu</span></li>
 								</ul>
 							</div>
 							<div class="col">
-								<p>We all need our daily dose of entertainment so that our life will not be boring.</p>
-								<p>100 things is App to make you happier and your day amazing. Start the next chapters of your life with 100 things.</p>
-								<p>Features: accomplish a chapter, add date for list tracking, put comments and remarks, add location and take a photo.</p>
-								<p>You can start changing your life right now with one click.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.1s">We all need our daily dose of entertainment so that our life will not be boring.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.3s">100 things is App to make you happier and your day amazing. Start the next chapters of your life with 100 things.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.5s">Features: accomplish a chapter, add date for list tracking, put comments and remarks, add location and take a photo.</p>
+								<p class="wow fadeInRight" data-wow-delay="0.7s">You can start changing your life right now with one click.</p>
 							</div>
 						</div>
 					</div>
@@ -254,7 +250,7 @@
 				<div class="container">
 					<h2>We are strong expert in</h2>
 					<div class="col-holder">
-						<div class="col">
+						<div class="col wow zoomIn">
 							<div class="holder">
 								<h3>SOCIAL MEDIA API INTEGRATION</h3>
 								<p>PuerDev delivers solutions for integrating API with Facebook, Vkontakte, Twitter, Instagram, YouTube and for other platforms you need.</p>
@@ -262,14 +258,14 @@
 								<p>You can reach a large amount of audience with just one click.</p>
 							</div>
 						</div>
-						<div class="col">
+						<div class="col wow zoomIn" data-wow-delay="0.1s">
 							<div class="holder">
 								<h3>CHAT APPS WITH WEB SOCKET</h3>
 								<p>WebSockets bring many benefits for building  data, images streaming, real-time communication apps and different media's types. It can be used in a various projects to stays connection open, greatly reducing complexity &amp; latency. </p>
 								<p>We make complicated things simple.</p>
 							</div>
 						</div>
-						<div class="col">
+						<div class="col wow zoomIn" data-wow-delay="0.2s">
 							<div class="holder">
 								<h3>CLEAN ARCHITECTURE APPROACH</h3>
 								<p>Nowadays apps are becoming complex. We simplifies complexity building development style focused on scalability, affordable to maintain support, easy for testing and adding new features if you needed in a feature from the beginning.</p>
@@ -278,7 +274,7 @@
 						</div>
 					</div>
 					<div class="col-holder">
-						<div class="col">
+						<div class="col wow zoomIn" data-wow-delay="0.3s">
 							<div class="holder">
 								<h3>REAL-TIME APPS</h3>
 								<p>The main our objective is to meet user's expectation of the product we provide.</p>
@@ -286,7 +282,7 @@
 								<p>The benefits is that the user gets functions immediately or within time frame. </p>
 							</div>
 						</div>
-						<div class="col">
+						<div class="col wow zoomIn" data-wow-delay="0.4s">
 							<div class="holder news-feed">
 								<h3>NEWS FEED</h3>
 								<p>Everyone is scrolling through content, looking for something relevant, nutty  to catch the eye. </p>
@@ -294,7 +290,7 @@
 								<p>It's a great chance to encourage engagement and connect with users within your App.</p>
 							</div>
 						</div>
-						<div class="col">
+						<div class="col wow zoomIn" data-wow-delay="0.5s">
 							<div class="holder">
 								<h3>SEARCH</h3>
 								<p>Searching with images, titles, whether users 'd like to identify something to buy or looking for info.</p>
@@ -383,7 +379,7 @@
 			</section>
 			<section class="expertise-section">
 				<div class="container">
-					<h2>Our expertise</h2>
+					<h2 class="wow fadeInLeft">Our expertise</h2>
 					<div class="col-holder" id="col-holder">
 						<div class="col col1">
 							<img src="images/ic_expertise_dating.svg" alt="consultant">
@@ -406,7 +402,7 @@
 							<p>E-Commerce</p>
 						</div>
 					</div>
-					<h2>Bring your vision to life </h2>
+					<h2 class="wow fadeInRight">Bring your vision to life </h2>
 				</div>
 			</section>
 			<section class="form-section">
@@ -415,21 +411,21 @@
 					<form id="form" class="form ajaxform" method="post" action="">
 						<div class="input-holderleft">
 
-								<input type="text" name="theme" placeholder="Theme">
-								<input type="text" name="country" placeholder="Country">
+								<input class="wow flipInX" type="text" name="theme" placeholder="Theme">
+								<input class="wow flipInX" data-wow-delay="0.2s" type="text" name="country" placeholder="Country">
 							</div>
 							<div class="input-holderRight">
-								<input type="text" name="name"  placeholder="Name">
-							<input type="text" name="email" placeholder="E-mail">
+								<input class="wow flipInX" data-wow-delay="0.4s" type="text" name="name"  placeholder="Name">
+							<input class="wow flipInX" data-wow-delay="0.6s" type="text" name="email" placeholder="E-mail">
 							</div>
 							
-							<textarea placeholder="Your message here"></textarea>
-					<label class="attachment">
+							<textarea class="wow fadeIn" data-wow-delay="0.8s" placeholder="Your message here"></textarea>
+					<label class="attachment wow fadeIn" data-wow-delay="0.7s">
 						<i class="icon-attachment"></i> Attachment
-						<input id="attach" type="file" name="Attachment">
+						<input  id="attach" type="file" name="Attachment">
 						<div id="file-name"></div>
 					</label>
-						<button type="submit">Contact to our team</button>
+						<button class="wow bounceIn" data-wow-delay="1s" type="submit">Contact to our team</button>
 					</form>
 
 						<div class="massage">
@@ -497,10 +493,10 @@ function scrollHandler(event) {
         var heightWindow =$(window).innerHeight();
 
 
-        console.log("scroll = "+scroll);
+       /* console.log("scroll = "+scroll);
         console.log("elem = "+offsetBlock);
         console.log("height elem = "+height);
-        console.log("window height = "+heightWindow)
+        console.log("window height = "+heightWindow)*/
 
           if(scroll+heightWindow> offsetBlock +height ) {
             $(elem).addClass('show');
@@ -513,7 +509,23 @@ function scrollHandler(event) {
     $(window).scroll(scrollHandler);
 });
 	</script>
-
+	<!-- <script type="text/javascript">
+		$(document).ready(function () {
+			var res =  $(window).resize(function(){
+				var bod = $('body').innerWidth();
+				console.log('bod' + bod);
+	
+				if(bod<1500) {
+					console.log("--");
+				} else {
+					console.log("++");
+				}
+			});
+			
+		});
+	</script> -->
+	
+	<div class="scrollup"><span></span></div>
 	</div>
 </body>
 </html>
