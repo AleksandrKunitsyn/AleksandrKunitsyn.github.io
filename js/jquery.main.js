@@ -14,20 +14,30 @@ function initMobileNav() {
 
 $(document).ready(function(){
  
-$(window).scroll(function(){
-if ($(this).scrollTop() > 300) {
-$('.scrollup').fadeIn();
-} else {
-$('.scrollup').fadeOut();
-}
-});
+	$(window).scroll(function(){
+	if ($(this).scrollTop() > 300) {
+	$('.scrollup').fadeIn();
+	} else {
+	$('.scrollup').fadeOut();
+	}
+	});
+	 
+	$('.scrollup').click(function(){
+	$("html, body").animate({ scrollTop: 0 }, 600);
+	return false;
+	});
+	
+
+	$("#menu").on("click","a", function (event) {
+		event.preventDefault();
+		var id  = $(this).attr('href'),
+			top = $(id).offset().top-100;
+		$('body,html').animate({scrollTop: top}, 900);
+	});
  
-$('.scrollup').click(function(){
-$("html, body").animate({ scrollTop: 0 }, 600);
-return false;
 });
- 
-});
+
+
 
 
 

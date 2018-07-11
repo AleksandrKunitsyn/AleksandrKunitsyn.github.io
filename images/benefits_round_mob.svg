@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="231.271mm" height="428.297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 23127 42830"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:white;stroke-width:26.46}
+    .str0 {stroke:white;stroke-width:8.82}
+    .str3 {stroke:white;stroke-width:35.27}
+    .str2 {stroke:white;stroke-width:35.27;stroke-linecap:round}
+    .fil28 {fill:none;fill-rule:nonzero}
+    .fil30 {fill:white;fill-rule:nonzero}
+    .fil29 {fill:white;fill-rule:nonzero}
+    .fil27 {fill:url(#id0);fill-rule:nonzero}
+    .fil22 {fill:url(#id1);fill-rule:nonzero}
+    .fil15 {fill:url(#id2);fill-rule:nonzero}
+    .fil19 {fill:url(#id3);fill-rule:nonzero}
+    .fil8 {fill:url(#id4);fill-rule:nonzero}
+    .fil0 {fill:url(#id5);fill-rule:nonzero}
+    .fil17 {fill:url(#id6);fill-rule:nonzero}
+    .fil11 {fill:url(#id7);fill-rule:nonzero}
+    .fil4 {fill:url(#id8);fill-rule:nonzero}
+    .fil26 {fill:url(#id9);fill-rule:nonzero}
+    .fil13 {fill:url(#id10);fill-rule:nonzero}
+    .fil18 {fill:url(#id11);fill-rule:nonzero}
+    .fil23 {fill:url(#id12);fill-rule:nonzero}
+    .fil10 {fill:url(#id13);fill-rule:nonzero}
+    .fil7 {fill:url(#id14);fill-rule:nonzero}
+    .fil24 {fill:url(#id15);fill-rule:nonzero}
+    .fil3 {fill:url(#id16);fill-rule:nonzero}
+    .fil20 {fill:url(#id17);fill-rule:nonzero}
+    .fil5 {fill:url(#id18);fill-rule:nonzero}
+    .fil14 {fill:url(#id19);fill-rule:nonzero}
+    .fil25 {fill:url(#id20);fill-rule:nonzero}
+    .fil2 {fill:url(#id21);fill-rule:nonzero}
+    .fil16 {fill:url(#id22);fill-rule:nonzero}
+    .fil12 {fill:url(#id23);fill-rule:nonzero}
+    .fil21 {fill:url(#id24);fill-rule:nonzero}
+    .fil1 {fill:url(#id25);fill-rule:nonzero}
+    .fil6 {fill:url(#id26);fill-rule:nonzero}
+    .fil9 {fill:url(#id27);fill-rule:nonzero}
+   ]]>
+  </style>
+  <radialGradient id="id0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.986842 -0 -0 0.986837 225 359)" cx="17119" cy="27291" r="597" fx="17119" fy="27291">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#09183F"/>
+  </radialGradient>
+  <radialGradient id="id1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -277 -265)" cx="20496" cy="19565" r="509" fx="20496" fy="19565">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#041744"/>
+  </radialGradient>
+  <radialGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.98685 -0 -0 0.986844 256 295)" xlink:href="#id0" cx="19483" cy="22406" r="455" fx="19483" fy="22406">
+  </radialGradient>
+  <radialGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.98685 -0 -0 0.986844 259 335)" xlink:href="#id0" cx="19726" cy="25470" r="455" fx="19726" fy="25470">
+  </radialGradient>
+  <radialGradient id="id4" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -115 -244)" cx="8531" cy="18063" r="443" fx="8531" fy="18063">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#101938"/>
+  </radialGradient>
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -123 -410)" xlink:href="#id4" cx="9099" cy="30348" r="443" fx="9099" fy="30348">
+  </radialGradient>
+  <radialGradient id="id6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -199 -300)" cx="14736" cy="22238" r="443" fx="14736" fy="22238">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0C183D"/>
+  </radialGradient>
+  <radialGradient id="id7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.986005 -0.00014545 0.00014545 0.986005 193 192)" cx="13960" cy="13574" r="395" fx="13960" fy="13574">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0D183C"/>
+  </radialGradient>
+  <radialGradient id="id8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -51 -285)" xlink:href="#id4" cx="3755" cy="21109" r="443" fx="3755" fy="21109">
+  </radialGradient>
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -213 -402)" cx="15764" cy="29725" r="509" fx="15764" fy="29725">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0B183D"/>
+  </radialGradient>
+  <radialGradient id="id10" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -221 -244)" xlink:href="#id0" cx="16349" cy="18063" r="443" fx="16349" fy="18063">
+  </radialGradient>
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.986848 -0 -0 0.986848 215 320)" xlink:href="#id0" cx="16341" cy="24349" r="455" fx="16341" fy="24349">
+  </radialGradient>
+  <radialGradient id="id12" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -146 -356)" xlink:href="#id4" cx="10775" cy="26322" r="509" fx="10775" fy="26322">
+  </radialGradient>
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.995921 -0.000145773 0.000145773 0.995921 43 56)" xlink:href="#id4" cx="10964" cy="13312" r="407" fx="10964" fy="13312">
+  </radialGradient>
+  <radialGradient id="id14" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -118 -202)" xlink:href="#id4" cx="8718" cy="14928" r="443" fx="8718" fy="14928">
+  </radialGradient>
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -134 -300)" xlink:href="#id4" cx="9915" cy="22224" r="509" fx="9915" fy="22224">
+  </radialGradient>
+  <radialGradient id="id16" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -83 -303)" xlink:href="#id4" cx="6122" cy="22406" r="443" fx="6122" fy="22406">
+  </radialGradient>
+  <radialGradient id="id17" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -162 -403)" xlink:href="#id4" cx="11981" cy="29851" r="443" fx="11981" fy="29851">
+  </radialGradient>
+  <radialGradient id="id18" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -70 -244)" xlink:href="#id4" cx="5154" cy="18063" r="443" fx="5154" fy="18063">
+  </radialGradient>
+  <radialGradient id="id19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -255 -228)" xlink:href="#id0" cx="18869" cy="16886" r="443" fx="18869" fy="16886">
+  </radialGradient>
+  <radialGradient id="id20" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -192 -358)" xlink:href="#id7" cx="14198" cy="26493" r="509" fx="14198" fy="26493">
+  </radialGradient>
+  <radialGradient id="id21" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -65 -339)" xlink:href="#id4" cx="4775" cy="25105" r="443" fx="4775" fy="25105">
+  </radialGradient>
+  <radialGradient id="id22" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -234 -285)" xlink:href="#id0" cx="17320" cy="21128" r="443" fx="17320" fy="21128">
+  </radialGradient>
+  <radialGradient id="id23" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -221 -206)" xlink:href="#id0" cx="16349" cy="15271" r="443" fx="16349" fy="15271">
+  </radialGradient>
+  <radialGradient id="id24" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01352 -0 -0 1.01352 -174 -250)" cx="12890" cy="18502" r="509" fx="12890" fy="18502">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.0117647" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#182A66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0D183B"/>
+  </radialGradient>
+  <radialGradient id="id25" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -96 -369)" xlink:href="#id4" cx="7132" cy="27291" r="443" fx="7132" fy="27291">
+  </radialGradient>
+  <radialGradient id="id26" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -88 -214)" xlink:href="#id4" cx="6518" cy="15828" r="443" fx="6518" fy="15828">
+  </radialGradient>
+  <radialGradient id="id27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.01351 -0 -0 1.01351 -167 -202)" xlink:href="#id4" cx="12337" cy="14928" r="443" fx="12337" fy="14928">
+  </radialGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2425905023056">
+   <path class="fil0" d="M8135 30348c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil1" d="M5188 27291c0,-1073 870,-1944 1944,-1944 1073,0 1944,870 1944,1944 0,1073 -870,1944 -1944,1944 -1073,0 -1944,-870 -1944,-1944z"/>
+   <path class="fil2" d="M3811 25105c0,-532 431,-964 964,-964 532,0 964,432 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil3" d="M4179 22406c0,-1073 870,-1944 1944,-1944 1073,0 1944,870 1944,1944 0,1073 -870,1944 -1944,1944 -1073,0 -1944,-870 -1944,-1944z"/>
+   <path class="fil4" d="M2791 21109c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil5" d="M4190 18063c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil6" d="M5555 15828c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil7" d="M7754 14928c0,-532 431,-964 964,-964 532,0 964,432 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil8" d="M6587 18063c0,-1073 870,-1944 1944,-1944 1073,0 1944,870 1944,1944 0,1073 -870,1944 -1944,1944 -1073,0 -1944,-870 -1944,-1944z"/>
+   <path class="fil9" d="M10859 14928c0,-817 662,-1479 1479,-1479 817,0 1479,662 1479,1479 0,817 -662,1479 -1479,1479 -817,0 -1479,-662 -1479,-1479z"/>
+   <path class="fil10" d="M10165 13312c0,-442 358,-799 799,-799 442,0 799,358 799,799 0,442 -358,799 -799,799 -442,0 -799,-358 -799,-799z"/>
+   <path class="fil11" d="M13135 13574c0,-456 370,-825 825,-825 456,0 825,370 825,825 0,456 -370,825 -825,825 -456,0 -825,-370 -825,-825z"/>
+   <path class="fil12" d="M15385 15271c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil13" d="M14870 18063c0,-817 662,-1479 1479,-1479 817,0 1479,662 1479,1479 0,817 -662,1479 -1479,1479 -817,0 -1479,-662 -1479,-1479z"/>
+   <path class="fil14" d="M17906 16886c0,-532 431,-964 964,-964 532,0 964,432 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil15" d="M18004 22406c0,-817 662,-1479 1479,-1479 817,0 1479,662 1479,1479 0,817 -662,1479 -1479,1479 -817,0 -1479,-662 -1479,-1479z"/>
+   <path class="fil16" d="M16494 21128c0,-456 370,-825 825,-825 456,0 825,370 825,825 0,456 -370,825 -825,825 -456,0 -825,-370 -825,-825z"/>
+   <path class="fil17" d="M13772 22238c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil18" d="M15378 24349c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil19" d="M18762 25470c0,-532 431,-964 964,-964 532,0 964,431 964,964 0,532 -431,964 -964,964 -532,0 -964,-431 -964,-964z"/>
+   <path class="fil20" d="M10502 29851c0,-817 662,-1479 1479,-1479 817,0 1479,662 1479,1479 0,817 -662,1479 -1479,1479 -817,0 -1479,-662 -1479,-1479z"/>
+   <circle class="fil21" cx="12890" cy="18502" r="1013"/>
+   <circle class="fil22" cx="20496" cy="19565" r="1013"/>
+   <circle class="fil23" cx="10775" cy="26322" r="1013"/>
+   <circle class="fil24" cx="9915" cy="22224" r="1013"/>
+   <circle class="fil25" cx="14198" cy="26493" r="1013"/>
+   <circle class="fil26" cx="15764" cy="29725" r="1013"/>
+   <circle class="fil27" cx="17119" cy="27291" r="1503"/>
+   <polyline class="fil28 str0" points="12337,14928 10964,13312 8718,14928 8531,18063 6518,15828 5155,18063 3755,21109 6122,22406 4775,25105 7132,27291 9932,22223 10775,26322 14736,22238 12890,18502 8531,18063 6122,22406 9932,22223 "/>
+   <path class="fil28 str0" d="M3768 21148c-97,-55 4763,-3085 4763,-3085"/>
+   <line class="fil28 str0" x1="5155" y1="18063" x2="8531" y2= "18063" />
+   <polyline class="fil28 str0" points="8531,18063 12337,14928 16349,18063 12890,18502 12337,14928 "/>
+   <polyline class="fil28 str0" points="12890,18502 9920,22238 8531,18063 "/>
+   <polygon class="fil28 str0" points="11981,29851 14198,26493 10775,26322 7132,27291 9099,30348 10775,26322 "/>
+   <polyline class="fil28 str0" points="9099,30348 11981,29851 15764,29725 "/>
+   <polyline class="fil28 str0" points="15764,29725 17119,27291 16349,24342 14198,26493 14736,22238 9920,22238 "/>
+   <path class="fil28 str0" d="M17119 27291c-15,0 -2921,-798 -2921,-798"/>
+   <line class="fil28 str0" x1="14198" y1="26493" x2="15764" y2= "29725" />
+   <line class="fil28 str0" x1="19726" y1="25470" x2="17119" y2= "27291" />
+   <path class="fil28 str0" d="M17119 27291c0,0 2400,-4909 2363,-4885 -37,24 -3135,1941 -3135,1941"/>
+   <polyline class="fil28 str0" points="16341,24349 14736,22238 17331,21109 19483,22406 19726,25470 "/>
+   <polygon class="fil28 str0" points="18869,16886 20496,19565 17320,21128 16349,18063 "/>
+   <line class="fil28 str0" x1="14736" y1="22238" x2="16349" y2= "18063" />
+   <path class="fil28 str0" d="M16349 18063c0,0 -13,-2709 0,-2793"/>
+   <polygon class="fil28 str0" points="16349,15270 12337,14928 13960,13574 "/>
+   <path class="fil28 str1" d="M7344 18063c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M11151 14928c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M15162 18063c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M4935 22406c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M5945 27291c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M10794 29851c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M15933 27291c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <path class="fil28 str1" d="M18296 22406c0,-656 531,-1187 1187,-1187 656,0 1187,531 1187,1187 0,656 -531,1187 -1187,1187 -656,0 -1187,-531 -1187,-1187z"/>
+   <g>
+    <polyline class="fil28 str2" points="7896,17047 7896,10399 10311,10399 10311,2442 "/>
+    <path class="fil29" d="M20684 35162c0,10 -8,18 -18,18 -10,0 -18,-8 -18,-18l0 -12636c0,-10 8,-18 18,-18 10,0 15,-118 15,-109l3 12763z"/>
+    <path class="fil29" d="M18098 27946c0,-10 8,-18 18,-18 10,0 18,-20 18,-10l0 5498 -5337 0 0 8530c0,10 -8,18 -18,18 -10,0 -18,-8 -18,-18l0 -8565 5337 0 0 -5423 0 -12z"/>
+    <polyline class="fil28 str2" points="18578,5371 23109,5371 23109,17900 17533,17900 "/>
+    <line class="fil28 str2" x1="11928" y1="238" x2="11928" y2= "13800" />
+    <polyline class="fil28 str2" points="4973,22718 18,22718 18,6902 1279,6902 "/>
+    <polyline class="fil28 str2" points="6061,27812 922,27812 922,35133 "/>
+    <polyline class="fil28 str2" points="11978,31034 11978,32638 10004,32638 10004,42812 "/>
+    <path class="fil30 str3" d="M10311 2663c-122,0 -221,-99 -221,-221 0,-122 99,-221 221,-221 122,0 221,99 221,221 0,122 -99,221 -221,221z"/>
+    <path class="fil30 str3" d="M1500 6902c0,-122 -99,-221 -221,-221 -122,0 -221,99 -221,221 0,122 99,221 221,221 122,0 221,-99 221,-221z"/>
+    <path class="fil30 str3" d="M1143 35133c0,-122 -99,-221 -221,-221 -122,0 -221,99 -221,221 0,122 99,221 221,221 122,0 221,-99 221,-221z"/>
+    <path class="fil30 str3" d="M10225 42591c0,-122 -99,-221 -221,-221 -122,0 -221,99 -221,221 0,122 99,221 221,221 122,0 221,-99 221,-221z"/>
+    <path class="fil30 str3" d="M20446 35162c0,-122 99,-221 221,-221 122,0 221,99 221,221 0,122 -99,221 -221,221 -122,0 -221,-99 -221,-221z"/>
+    <path class="fil30 str3" d="M18357 5371c0,-122 99,-221 221,-221 122,0 221,99 221,221 0,122 -99,221 -221,221 -122,0 -221,-99 -221,-221z"/>
+    <path class="fil30 str3" d="M11708 238c0,-122 99,-221 221,-221 122,0 221,99 221,221 0,122 -99,221 -221,221 -122,0 -221,-99 -221,-221z"/>
+    <path class="fil30 str3" d="M12557 41946c0,-122 99,-221 221,-221 122,0 221,99 221,221 0,122 -99,221 -221,221 -122,0 -221,-99 -221,-221z"/>
+   </g>
+  </g>
+ </g>
+</svg>
